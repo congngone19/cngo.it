@@ -43,7 +43,8 @@ function Contact() {
                     <rect width="404" height="404" fill="url(#85737c0e-0916-41d7-917f-596dc7edfa27)"></rect>
                 </svg>
                 <div className="text-center">
-                    <h2 className="text-3xl font-extrabold tracking-tight text-gray-900 dark:text-slate-200 sm:text-4xl">Contact Us
+                    <h2 className="text-3xl font-extrabold tracking-tight text-gray-900 dark:text-slate-200 sm:text-4xl">
+                        <a href="/">Contact Us</a>
                     </h2>
                     <p className="mt-4 text-lg leading-6 text-gray-500 dark:text-slate-400">Please use the form below to contact us.
                         Thank you!
