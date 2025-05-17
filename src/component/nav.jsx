@@ -1,4 +1,4 @@
-import img from "../assets/logo_heart.png"
+import img from "../assets/cn_logo.png"
 function Nav() {
     return (
         <header
