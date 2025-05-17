@@ -65,7 +65,8 @@ function Contact() {
                 </svg>
                 <div className="text-center">
                     <h2 className="text-3xl font-extrabold tracking-tight text-gray-900 dark:text-slate-200 sm:text-4xl">
-                        <img className="w-20 mx-auto" src={img} alt="" />
+                        <a href="/">
+                            <img className="w-20 mx-auto" src={img} alt="" /></a>
                     </h2>
                     <p className="mt-4 text-lg leading-6 text-gray-500 dark:text-slate-400">Chúng tôi sẽ liên hệ lại bạn sau khi nhận được lời nhắn
                         <br />
