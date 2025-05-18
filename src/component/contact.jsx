@@ -23,7 +23,7 @@ function Contact() {
         try {
             var config = {
                 method: 'post',
-                url: 'http://n8n.og-19.online/webhook/97f28df3-12f2-4746-9848-5f24291a2332',
+                url: 'https://og-19.online/api/learning_v1',
                 // headers: {
                 //     Authorization: `Bearer your-access-token`,
                 //     'Content-Type': 'application/json',
